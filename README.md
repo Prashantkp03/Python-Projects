@@ -1,2 +1,2 @@
 # Python-- Vendor_Performance_Analysis
-## Two Files (Sales & Purchases) were not uploaded because the size of those files was larger than 25MB.
+## DataSet Link: https://drive.google.com/drive/u/2/folders/1-opZdscjAVHRgHYeCPthFgV1sjHeXtJf
